@@ -29,5 +29,4 @@ Run the Colab notebook to:
 
 ## 📁 Files
 
-- `notebook/Create_MP3_Transcript_Summary.ipynb`: Main Colab workflow
-- `scripts/`: Placeholder for optional script version
+- `Create_MP3_Transcript_Summary.ipynb`: Main Colab workflow
