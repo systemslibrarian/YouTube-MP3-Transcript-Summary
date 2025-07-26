@@ -1,0 +1,6 @@
+openai
+whisper
+pytube
+transformers
+torch
+tqdm
